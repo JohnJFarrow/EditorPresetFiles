@@ -33,11 +33,6 @@
                 "value" : "true"
             },
             {
-                "ui-section": "Rendering/",
-                "property": "",
-                "value" : ""
-            },
-            {
                 "ui-section": "Rendering/Targeted RHIs",
                 "property": "Default RHI",
                 "value" : "DirectX 12"
