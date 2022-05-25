@@ -1,0 +1,42 @@
+
+"preset":
+{
+    "settings":
+    [
+        {
+            "ui-section": "Rendering/Global Illumination",
+            "property": "Dynamic Global Illumination Method",
+            "value" : "Lumen"
+        },
+        {
+            "ui-section": "Rendering/Reflections",
+            "property": "Reflection Method",
+            "value" : "true"
+        },
+        {
+            "ui-section": "Rendering/Hardware Ray Tracing",
+            "property": "Support Hardware Ray Tracing",
+            "value" : "true"
+        },
+        {
+            "ui-section": "Rendering/Hardware Ray Tracing",
+            "property": "Path Tracing",
+            "value" : "true"
+        },
+        {
+            "ui-section": "Rendering/Lumen",
+            "property": "Use Hardware Ray Tracing when available",
+            "value" : "true"
+        },
+        {
+            "ui-section": "Rendering/Targeted RHIs",
+            "property": "Default RHI",
+            "value" : "DirectX 12"
+        }
+        {
+            "ui-section": "Rendering/Targeted RHIs",
+            "property": "DirectX 11 & 12 (SM5)",
+            "value" : "true"
+        }
+    ]
+}

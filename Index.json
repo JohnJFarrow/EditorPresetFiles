@@ -3,45 +3,8 @@
 [
     {
         "title": "Hardware Raytracing",
-        "description": "Willian Faucher - Fixing Common UE5 Issues! Changes in 5.0",
-        "reference-url": "https://www.youtube.com/watch?v=wTYM9TfckOQ",
-        "settings":
-        [
-            {
-                "ui-section": "Rendering/Global Illumination",
-                "property": "Dynamic Global Illumination Method",
-                "value" : "Lumen"
-            },
-            {
-                "ui-section": "Rendering/Reflections",
-                "property": "Reflection Method",
-                "value" : "true"
-            },
-            {
-                "ui-section": "Rendering/Hardware Ray Tracing",
-                "property": "Support Hardware Ray Tracing",
-                "value" : "true"
-            },
-            {
-                "ui-section": "Rendering/Hardware Ray Tracing",
-                "property": "Path Tracing",
-                "value" : "true"
-            },
-            {
-                "ui-section": "Rendering/Lumen",
-                "property": "Use Hardware Ray Tracing when available",
-                "value" : "true"
-            },
-            {
-                "ui-section": "Rendering/Targeted RHIs",
-                "property": "Default RHI",
-                "value" : "DirectX 12"
-            }
-            {
-                "ui-section": "Rendering/Targeted RHIs",
-                "property": "DirectX 11 & 12 (SM5)",
-                "value" : "true"
-            }
-        ]
+        "source": "Willian Faucher - Fixing Common UE5 Issues! Changes in 5.0",
+        "source-url": "https://www.youtube.com/watch?v=wTYM9TfckOQ",
+        "url": "HardwareRaytracing.json"
     }
 ]
