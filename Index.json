@@ -1,11 +1,12 @@
 
-"presets":
-[
-    {
-        "title": "Hardware Raytracing",
-        "source": "Willian Faucher - Fixing Common UE5 Issues! Changes in 5.0",
-        "source-url": "https://www.youtube.com/watch?v=wTYM9TfckOQ",
-        "url": "http://github.com/JohnJFarrow/EditorPresetFiles/blob/dev/HardwareRaytracing.json"
-    }
-]
-
+{
+    "presets":
+    [
+        {
+            "title": "Hardware Raytracing",
+            "source": "Willian Faucher - Fixing Common UE5 Issues! Changes in 5.0",
+            "source-url": "https://www.youtube.com/watch?v=wTYM9TfckOQ",
+            "url": "http://github.com/JohnJFarrow/EditorPresetFiles/blob/dev/HardwareRaytracing.json"
+        }
+    ]
+}
